@@ -1,0 +1,301 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\Assets\\items\\7up.webp",
+      "PackagePath": "staticwebassets\\Assets\\items\\7up.webp"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\Assets\\items\\butter_scotch.webp",
+      "PackagePath": "staticwebassets\\Assets\\items\\butter_scotch.webp"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\Assets\\items\\cheese_n_corn.webp",
+      "PackagePath": "staticwebassets\\Assets\\items\\cheese_n_corn.webp"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\Assets\\items\\choco_lava.webp",
+      "PackagePath": "staticwebassets\\Assets\\items\\choco_lava.webp"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\Assets\\items\\items-details.txt",
+      "PackagePath": "staticwebassets\\Assets\\items\\items-details.txt"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\Assets\\items\\mirinda.webp",
+      "PackagePath": "staticwebassets\\Assets\\items\\mirinda.webp"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\Assets\\items\\nonveg_supreme.webp",
+      "PackagePath": "staticwebassets\\Assets\\items\\nonveg_supreme.webp"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\Assets\\items\\noveg_delight.webp",
+      "PackagePath": "staticwebassets\\Assets\\items\\noveg_delight.webp"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\Assets\\items\\pepsi.webp",
+      "PackagePath": "staticwebassets\\Assets\\items\\pepsi.webp"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\Assets\\items\\pizza-header.png",
+      "PackagePath": "staticwebassets\\Assets\\items\\pizza-header.png"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\Assets\\items\\red_cake.webp",
+      "PackagePath": "staticwebassets\\Assets\\items\\red_cake.webp"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\Assets\\items\\veggie_pizza.webp",
+      "PackagePath": "staticwebassets\\Assets\\items\\veggie_pizza.webp"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\images\\20210311T082239538.webp",
+      "PackagePath": "staticwebassets\\images\\20210311T082239538.webp"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\images\\20210311T082352599.webp",
+      "PackagePath": "staticwebassets\\images\\20210311T082352599.webp"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\images\\20210311T082425447.webp",
+      "PackagePath": "staticwebassets\\images\\20210311T082425447.webp"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\images\\20210311T082529972.webp",
+      "PackagePath": "staticwebassets\\images\\20210311T082529972.webp"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\images\\20210311T082555169.webp",
+      "PackagePath": "staticwebassets\\images\\20210311T082555169.webp"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\images\\20210311T082618463.webp",
+      "PackagePath": "staticwebassets\\images\\20210311T082618463.webp"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\images\\20210311T082646437.webp",
+      "PackagePath": "staticwebassets\\images\\20210311T082646437.webp"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\images\\20210311T082719557.webp",
+      "PackagePath": "staticwebassets\\images\\20210311T082719557.webp"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\images\\20210311T082744275.webp",
+      "PackagePath": "staticwebassets\\images\\20210311T082744275.webp"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\images\\20210311T082807210.webp",
+      "PackagePath": "staticwebassets\\images\\20210311T082807210.webp"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\images\\20230413T141522629.png",
+      "PackagePath": "staticwebassets\\images\\20230413T141522629.png"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\images\\20230413T141551333.png",
+      "PackagePath": "staticwebassets\\images\\20230413T141551333.png"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\images\\20230413T141656925.png",
+      "PackagePath": "staticwebassets\\images\\20230413T141656925.png"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\images\\20230413T141721976.png",
+      "PackagePath": "staticwebassets\\images\\20230413T141721976.png"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\images\\20230413T141848205.png",
+      "PackagePath": "staticwebassets\\images\\20230413T141848205.png"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\images\\20230413T141926354.png",
+      "PackagePath": "staticwebassets\\images\\20230413T141926354.png"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\images\\20230413T142009835.png",
+      "PackagePath": "staticwebassets\\images\\20230413T142009835.png"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\images\\20230413T142112145.png",
+      "PackagePath": "staticwebassets\\images\\20230413T142112145.png"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\images\\20230413T142158829.png",
+      "PackagePath": "staticwebassets\\images\\20230413T142158829.png"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\images\\pizza-header.png",
+      "PackagePath": "staticwebassets\\images\\pizza-header.png"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\js\\cart.js",
+      "PackagePath": "staticwebassets\\js\\cart.js"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Anan\\Desktop\\ePizzaHubMaster\\ePizzaHub_V1.2\\ePizzaHub.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ePizzaHub.WebUI.props",
+      "PackagePath": "build\\ePizzaHub.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ePizzaHub.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\ePizzaHub.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ePizzaHub.WebUI.props",
+      "PackagePath": "buildTransitive\\ePizzaHub.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ePizzaHub.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

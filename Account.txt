@@ -1,0 +1,7 @@
+- admin
+email: administrator@gmail.com
+pass: @Admin1234
+
+- user
+email: rey@gmail.com
+pass: @Rey1234
